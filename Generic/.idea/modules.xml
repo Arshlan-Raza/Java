@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic.iml" filepath="$PROJECT_DIR$/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+    </modules>
+  </component>
+</project>
